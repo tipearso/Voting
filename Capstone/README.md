@@ -27,6 +27,7 @@ to explore demographics. The cleaning of that data was relatively simple and rea
 The other data source I used was registration data I took from the TX SOS website.  I needed to cut and paste it from their website and created individual tables that way before I joined all of the tables (organized by year) into one complete table.
 
 an example of a table from my jupyter notebook:
+
 ![TX_race_race_df](images/race_cnty_df.png)
 
 With Tableau I made a map of TX showing the change ethnic/racial minority population over time
