@@ -1,7 +1,7 @@
 # Voting in TX 2010-2019
-! [Banner goes here](image info)
 
-## analysis of voting and registration data in TX from 2010 to 2019
+
+## Analysis of voting and registration data in TX from 2010 to 2019
 
 ## TABLE OF CONTENTS
 *[Motivation](#motivation) 
@@ -24,15 +24,21 @@ Leading up to the 2020 presidential election there were many stories in the news
 I used data from the census bureau from 2010-2019
 to explore demographics. The cleaning of that data was relatively simple and really involved removing many columns I didn't need. 
 
-The other data source I used was registration data I took from the TX SOS website.  I needed to cut and paste it from their website and created individual tables that way before I joined all of the tables (orgamized by year) into one complete table.
+The other data source I used was registration data I took from the TX SOS website.  I needed to cut and paste it from their website and created individual tables that way before I joined all of the tables (organized by year) into one complete table.
+
+an example of a table from my jupyter notebook:
+![TX_race_race_df](images/race_cnty_df.png)
+
+With Tableau I made a map of TX showing the change ethnic/racial minority population over time
+![TX_race_map](images/statemap_race.png)
+
+..then I worked to make different visualizations based on my analysis. below is my dashboard showing precinct data over time:
+![TX_precinct_dashboard](images/precinct_dash.png)
 
 ### Analytical Approach
 Initially I worked (using the widest lense) to find ANY data I thought would be useful.  As my data sources multiplied I decided to narrow ths scope to TX.  If time had allowed I would have loved to expand my analysis to another state not included on the list of states needing to pass preclearance tests to use as a control.  Or I would like to go back and include a national comparison to some of my findings. Each state is different in their election procedures so there would be challenges there too. 
 
 I attempted to compare the census data on race and ethnicity with voter registration data over the same years. I was looking for any examples of limiting access to voting by looking at 'suspense' voter classification and number of precincts in each county.  
-
-With Tableau I made a map of TX showing the change ethnic/racial minority population over time
-![TX_race_map](.images/statemap_race.png)
 
 ### TOOLS USED
 
