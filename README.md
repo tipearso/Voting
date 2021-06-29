@@ -28,13 +28,13 @@ The other data source I used was registration data I took from the TX SOS websit
 
 an example of a table from my jupyter notebook:
 
-![TX_race_race_df](capstone/images/race_cnty_df.png)
+![TX_race_race_df](images/race_cnty_df.png)
 
 With Tableau I made a map of TX showing the change ethnic/racial minority population over time
-![TX_race_map](capstone/images/statemap_race.png)
+![TX_race_map](images/statemap_race.png)
 
 ..then I worked to make different visualizations based on my analysis. below is my dashboard showing precinct data over time:
-![TX_precinct_dashboard](capstone/images/precinct_dash.png)
+![TX_precinct_dashboard](images/precinct_dash.png)
 
 ### Analytical Approach
 Initially I worked (using the widest lense) to find ANY data I thought would be useful.  As my data sources multiplied I decided to narrow ths scope to TX.  If time had allowed I would have loved to expand my analysis to another state not included on the list of states needing to pass preclearance tests to use as a control.  Or I would like to go back and include a national comparison to some of my findings. Each state is different in their election procedures so there would be challenges there too. 
